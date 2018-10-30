@@ -26,8 +26,8 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for Android developers who want to try their hand at building a machine learning app using the new ML Kit SDK that Google recently released. This course does not require any previous knowledge of machine learning, as a basic introduction will be given so that you can fully understand the content.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-
-Android Studio
+<UL>
+<LI>Android Studio</LI></UL>
 
 This course has been tested on the following system configuration:
 <UL>
